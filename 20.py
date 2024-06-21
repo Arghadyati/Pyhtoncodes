@@ -8,7 +8,7 @@ f.close()
 
 f = open("demo.txt", "a")
 
-f.write("in sentient geeks")
+f.write("in tata consultancy services")
 
 f.close()
 
